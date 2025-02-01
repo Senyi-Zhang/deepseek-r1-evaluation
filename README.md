@@ -1,7 +1,7 @@
 # deepseek-r1-evaluation
 Evaluation code for deepseek-r1 and other llms.
 ## Introduction
-This code is designed to test deepseek-r1(while useful for other models as well) on six common NLP datasets(SST-2, SemEval2017task4, MNLI, ANLI, CommonsenseQA, TruthfulQA)
+This code is designed to test deepseek-r1 (while useful for other models as well) on six common NLP datasets (SST-2, SemEval2017task4, MNLI, ANLI, CommonsenseQA, TruthfulQA).
 ## Start
 First, run
 ```
